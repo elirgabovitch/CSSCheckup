@@ -1,0 +1,31 @@
+.heythere{
+    font: green;
+}
+
+#redletters {
+    color: red;
+}
+
+.hellomargins{
+    border: 2px solid blue;
+        margin-top: 100px;
+        margin-right: 200px;
+        margin-bottom: 250px;
+        margin-left: 200px;
+    padding: 40px 40px 40px 40px;
+}
+
+p{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.backgroundsample{
+    background-color: royalblue;
+}
+
+.widthandheight{
+    width: 40%;
+    height: 250px;
+    background-color: salmon;
+    border-style: dotted;
+}
